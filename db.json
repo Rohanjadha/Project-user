@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "fname": "sammer",
+      "lname": "Jadhav",
+      "email": "sammer@123Gmail.com",
+      "phone": 8796153521,
+      "address": "Rohan house no 897",
+      "id": "3"
+    },
+    {
+      "fname": "Ankit",
+      "lname": "Mhatre",
+      "email": "ankit@gmail.com",
+      "phone": 1234567897,
+      "address": "Ankit house no 15",
+      "id": "4"
+    },
+    {
+      "fname": "Tanmay",
+      "lname": "pore",
+      "email": "Tanmay@gmail.com",
+      "phone": 8796153521,
+      "address": "Tanmay house no 16",
+      "id": "5"
+    }
+  ]
+}
